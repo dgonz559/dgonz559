@@ -3,11 +3,22 @@ html {
 	padding: 0;
 	background-color: #777;
 }
+
+body {
+	width: 70%;
+	margin: 0 auto;
+	font: 100% Arial, Helvetica, sans-serif;
+	padding: 1em 50px;
+	background: white;
+	border-bottom: 10px solid gold;
+}
 h1 {
-	width: 80%;
-	margin-right: auto;
-	margin-left: auto;
-	padding: 2.5% 2.5% 0;
-	background: green;
-	line-height: 1.8;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2em;
+	font-weight: normal;
+	font-style: italic;
+	margin: 0 0 .4em;
+	color: #ddd;
+	background-color: rgb(44, 45, 140);
+	padding: 5px 10px;
 }
